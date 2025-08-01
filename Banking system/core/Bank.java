@@ -187,3 +187,223 @@ public class Bank {
 		System.out.println(acc.getName()+" balance= "+acc.getBal());		
 	}
 }
+
+/*
+
+==== Welcome to the banking system ==== 
+
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::1
+
+Enter name:
+Ankan Nandi
+Enter password
+1234
+Your account is created successfully
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::1
+
+Enter name:
+souvik karmakar
+Enter password
+4321
+Your account is created successfully
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::2
+
+Login to your account 
+Enter name:
+Ankan Nandi
+Enter password
+1234
+*Login Successfull*
+
+---Account Menu---
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+2
+Enter amount
+5000
+*Deposited successfully* Balance = $5000.00
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+2
+Enter amount
+600
+*Deposited successfully* Balance = $5600.00
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+3
+Enter amount
+900
+*Withdrawl Done* balance=4700.0
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+5
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::2
+
+Login to your account 
+Enter name:
+souvik karmakar
+Enter password
+4321
+*Login Successfull*
+
+---Account Menu---
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+2
+Enter amount
+10000
+*Deposited successfully* Balance = $10000.00
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+3
+Enter amount
+987
+*Withdrawl Done* balance=9013.0
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+5
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::2
+
+Login to your account 
+Enter name:
+Ankan Nandi
+Enter password
+1234
+*Login Successfull*
+
+---Account Menu---
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+4
+--------------------------------------------------------------
+Transaction  | Amount     | Balance    | Date & Time         
+-------------|------------|------------|----------------------
+Deposit      | $5000.00   | $5000.00   | 01-08-2025 22:05:37 
+Deposit      | $600.00    | $5600.00   | 01-08-2025 22:05:59 
+Withdrawal   | $900.00    | $4700.00   | 01-08-2025 22:06:11 
+---------------------------------------------------------------
+Current balance: $4700.00
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+5
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::2
+
+Login to your account 
+Enter name:
+souvik karmakar
+Enter password
+4321
+*Login Successfull*
+
+---Account Menu---
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+4
+--------------------------------------------------------------
+Transaction  | Amount     | Balance    | Date & Time         
+-------------|------------|------------|----------------------
+Deposit      | $10000.00  | $10000.00  | 01-08-2025 22:06:46 
+Withdrawal   | $987.00    | $9013.00   | 01-08-2025 22:06:54 
+---------------------------------------------------------------
+Current balance: $9013.00
+
+1.Check Balance
+2.Deposite
+3.Withdraw
+4.Transaction History
+5.Exit...
+
+Enter choice::
+5
+
+1.Create Account
+2.Login to Account
+3.Exist
+Enter your choice::3
+Hope you have a nice day
+
+ */
